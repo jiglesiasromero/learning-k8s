@@ -1,0 +1,8 @@
+Template para crear pods:
+https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
+
+Crear replica sets:
+https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/
+
+Crear deployments:
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
